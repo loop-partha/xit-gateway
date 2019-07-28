@@ -1,5 +1,3 @@
-# xapi-gateway
-
 ## Features
 1. Http Request Logging. (Not Implemented Yet)
 2. Http Request Header, Params, Payload Validator. (Not Implemented Yet)
