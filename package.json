@@ -1,6 +1,6 @@
 {
   "name": "xapi-gateway",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "api gateway middleware from xitloop for nodejs projects.",
   "main": "index.js",
   "scripts": {
