@@ -12,4 +12,3 @@
 9. Request Queuing
 10. Error Alerting
 11. Caching
-12. 
