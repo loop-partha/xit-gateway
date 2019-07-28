@@ -1,0 +1,28 @@
+{
+  "name": "xapi-gateway",
+  "version": "1.0.0",
+  "description": "api gateway middleware from xitloop for nodejs projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loop-partha/xapi-gateway.git"
+  },
+  "keywords": [
+    "api",
+    "gateway",
+    "logging",
+    "mocking",
+    "limiting",
+    "authendication",
+    "proxing"
+  ],
+  "author": "xitloop.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loop-partha/xapi-gateway/issues"
+  },
+  "homepage": "https://github.com/loop-partha/xapi-gateway#readme"
+}
